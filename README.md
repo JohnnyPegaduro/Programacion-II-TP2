@@ -156,7 +156,7 @@ Ej13RecursivoArray.java
 Imprime recursivamente el array antes y después de modificar un elemento.
 ```
 
-##🛠️ Troubleshooting
+## 🛠️ Troubleshooting
 Si Ant/NetBeans reporta errores como:
 
 Must set dist.javadoc.dir
