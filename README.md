@@ -207,5 +207,10 @@ build.classes.excludes=**/*.java,**/*.form
 javac.classpath=
 run.classpath=${build.classes.dir}:${javac.classpath}
 Después de editar, hacer Clean and Build y volver a Run Project (F6).
+```
+---
+
+✏️ **Autor:** Matías Ariel Deluca  
+📅 **Año:** 2025  
 
 
