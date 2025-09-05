@@ -154,8 +154,9 @@ Muestra un array de precios, modifica un elemento y vuelve a mostrar.
 
 Ej13RecursivoArray.java
 Imprime recursivamente el array antes y después de modificar un elemento.
+```
 
-🛠️ Troubleshooting
+##🛠️ Troubleshooting
 Si Ant/NetBeans reporta errores como:
 
 Must set dist.javadoc.dir
@@ -168,6 +169,7 @@ Warning: location of system modules is not set … --release 17 is recommended
 
 Asegurarse de tener en nbproject/project.properties:
 
+```bash
 properties
 Copiar código
 # --- Básicos de build ---
